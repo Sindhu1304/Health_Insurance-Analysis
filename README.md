@@ -3,10 +3,17 @@
 **Tools Used:** Power BI, Excel   
 **Domain:** Health Insurance | Claims Analytics
 
-Problem Statement
+**Objective:**
+Simulate a real-world health insurance claim process and analyze user behavior across key product flows — from claim initiation to final approval or rejection.
+The goal is to identify:
 
-Many health insurance users start but do not complete claim submissions. The goal of this project is to simulate product analytics workflows—identifying drop-offs, segmenting user behaviors, and proposing improvements to increase claim completion rates.
+Funnel drop-offs,
 
+Friction points in submission methods,
+
+Segments with higher denial rates,
+
+Product improvements to optimize the user journey.
 
 
 #### 📊 Business Objective:
