@@ -3,6 +3,12 @@
 **Tools Used:** Power BI, Excel (Synthetic Data)  
 **Domain:** Health Insurance | Claims Analytics
 
+Problem Statement
+
+Many health insurance users start but do not complete claim submissions. The goal of this project is to simulate product analytics workflows—identifying drop-offs, segmenting user behaviors, and proposing improvements to increase claim completion rates.
+
+
+
 #### 📊 Business Objective:
 To uncover actionable insights from health insurance claims data by analyzing approval rates, patient demographics, and claim trends across specialties, submission methods, and employment segments.
 
