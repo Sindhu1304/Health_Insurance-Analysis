@@ -1,6 +1,6 @@
 ### 🩺 Acko Style Health Insurance Claims Analysis Dashboard
 
-**Tools Used:** Power BI, Excel (Synthetic Data)  
+**Tools Used:** Power BI, Excel   
 **Domain:** Health Insurance | Claims Analytics
 
 Problem Statement
